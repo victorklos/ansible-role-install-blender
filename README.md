@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/victorklos/ansible-role-install-blender.svg?branch=master)](https://travis-ci.org/victorklos/ansible-role-install-blender)
+
 # Role Name
 
 Ansible role to install [Blender](https://blender.org/), latest stable, on
